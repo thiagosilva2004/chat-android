@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Micro/AndroidStudioProjects/Chat/app/src/main/res/drawable/bg_button_img_rounded.xml" value="0.1395" />
+        <entry key="..\:/Users/Micro/AndroidStudioProjects/Chat/app/src/main/res/drawable/bg_button_rounded.xml" value="0.1395" />
+        <entry key="..\:/Users/Micro/AndroidStudioProjects/Chat/app/src/main/res/drawable/bg_edit_text_rounded.xml" value="0.1395" />
+        <entry key="..\:/Users/Micro/AndroidStudioProjects/Chat/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1375" />
+        <entry key="..\:/Users/Micro/AndroidStudioProjects/Chat/app/src/main/res/layout/activity_chat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Micro/AndroidStudioProjects/Chat/app/src/main/res/layout/activity_contacts.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Micro/AndroidStudioProjects/Chat/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Micro/AndroidStudioProjects/Chat/app/src/main/res/layout/activity_messages.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Micro/AndroidStudioProjects/Chat/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/Micro/AndroidStudioProjects/Chat/app/src/main/res/layout/item_contacts_last_message.xml" value="0.25" />
+        <entry key="..\:/Users/Micro/AndroidStudioProjects/Chat/app/src/main/res/layout/item_from_message.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Micro/AndroidStudioProjects/Chat/app/src/main/res/layout/item_to_message.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Micro/AndroidStudioProjects/Chat/app/src/main/res/layout/list_user.xml" value="0.19" />
+        <entry key="..\:/Users/Micro/AndroidStudioProjects/Chat/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

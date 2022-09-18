@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="crieConta">Não tem uma conta?Crie aqui</string>
+    <string name="login">Entrar</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="nome">Nome</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="foto">Foto</string>
+    <string name="contatos">Contatos</string>
+    <string name="sair">Sair</string>
+    <string name="enviar">Enviar</string>
+    <string name="mensagem">Digite a mensagem</string>
+</resources>
